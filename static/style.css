@@ -1,0 +1,107 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #212F39;
+}
+
+body {
+  margin: 0;
+  background-color: #212F39;
+  color: white;
+  font-family: 'Montserrat';
+}
+
+footer {
+  overflow: hidden;
+  display:grid;
+  grid-template-rows: auto 1fr auto;
+  padding: 20px;
+  
+  
+}
+
+.title1 {
+  color: white;
+  font-size: 42px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title2 {
+  color: white;
+  font-size: 36px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text1 {
+  color: #FFFFE1;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 16px;
+  text-align: left;
+}
+
+.textindex {
+  color: #FFFFE1;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 16px;
+  text-align: left;
+}
+
+#podtitle {
+  color: white;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+}
+
+.blogtitle2 {
+  color: white;
+  font-size: 32px;
+  font-family: 'Montserrat', sans-serif;
+}
+.blogtitle3 {
+  color: white;
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.menu {
+  color: white;
+  font-size: 20px;
+  list-style-type: none;
+}
+
+img {
+  border: solid;
+  border-color:black;
+  border-width: 2px;
+  width: 800px;
+}
+
+.contacts {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: underline;
+  color: white
+}
+
+nav {
+  color: #212F45;
+}
+
+.maintext{
+  margin-left: 50%;
+  margin-right: -50%;
+  background-color:black
+}
